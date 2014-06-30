@@ -10,3 +10,5 @@
     * Playbooks:
       * A [galaxy of Ansible content](https://galaxy.ansible.com) provides a centralized place to search for resources.
       * [ansible-security](https://github.com/nickjj/ansible-security): a security-related Ansible playbook.
+* Server monitoring
+  * [Monit](http://mmonit.com/monit): A great monitoring tool for the services in one or more servers.
